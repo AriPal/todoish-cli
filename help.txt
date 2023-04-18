@@ -1,0 +1,21 @@
+Synopsis: 
+    todoish.sh [add|tasks|remove|show-completed]
+
+Description:   
+    Todoish is a command-line tool designed for programmers to manage their tasks directly in the terminal. 
+    It provides a powerful scripting environment for managing tasks without needing to switch between different 
+    contexts or third-party apps. Whether you are in a meeting or have tasks that need to be done, you can easily 
+    create, organize, and manage your tasks within the terminal. 
+
+Actions
+    add
+    remove
+    change
+    complete
+
+Options
+    -h | Show help page  
+
+
+Examples:
+    tba
