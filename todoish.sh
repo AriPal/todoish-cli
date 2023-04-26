@@ -21,7 +21,7 @@ fi
 case "$1" in
 "add")
     # add task to text file
-    echo "$2" >>$TODO_FILE
+    echo "[new] $2" >> $TODO_FILE
     echo "Task added"
     ;;
 "tasks")
